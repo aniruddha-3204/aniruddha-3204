@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniruddha-3204
-- 👀 I’m interested in Structural Engineering
-- 🌱 I’m currently learning ... Julia language for FEM inplementation
-- 💞️ I’m looking to collaborate on Julia codes
+- 👀 I’m interested in Structural Engineering, Machine Learning and Deep Learning.
+- 🌱 I’m currently learning ... Julia & Python languages for FEM inplementation and System Identification.
+- 💞️ I’m looking to collaborate on Julia and Python codes
 - 📫 How to reach me adas.ce.iit@gmail.com
 
 <!---
